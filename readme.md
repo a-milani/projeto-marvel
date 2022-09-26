@@ -10,7 +10,7 @@
 - Ter uma versão responsiva para mobile.
 
 ## Versão desktop:
-<img src="./src/design/animação-desktop.gif" alt="gif da tela versão desktop">
+![gif da tela versão desktop](./src/design/animação-desktop.gif)
 
 ## Versão mobile:
-<img src="./src/design/animação-mobile.gif" alt="gif da tela versão mobile">
+![gif da tela versão mobile](./src/design/animação-mobile.gif)
