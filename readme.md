@@ -9,8 +9,8 @@
 
 - Ter uma versão responsiva para mobile.
 
-## Versão desktop:</h2>
-[<img src="./src/design/animação-desktop.gif" alt="gif da tela versão desktop">]
+## Versão desktop:
+<img src="./src/design/animação-desktop.gif" alt="gif da tela versão desktop">
 
-## Versão mobile: </h2>
-[<img src="./src/design/animação-mobile.gif" alt="gif da tela versão mobile">]
+## Versão mobile:
+<img src="./src/design/animação-mobile.gif" alt="gif da tela versão mobile">
